@@ -1,5 +1,7 @@
 ⚡ Fun fact: I'm a person.
 
+Most of my repos are at [codeberg](https://codeberg.org/JBanana) but sometimes I need to be here too.
+
 <!--
 **jbanana/jbanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
